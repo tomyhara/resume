@@ -7,7 +7,7 @@
 | 名前 | 原田智弘 (はらだ　ともひろ) |
 | 出生年月 | 1996年2月 |
 | 最終学歴 |芝浦工業大学大学院電気電子情報工学専攻|
-| LinkedIn | https://www.linkedin.com/in/tomohiro-harada-bb1b0196/ |
+| LinkedIn | [https://www.linkedin.com/in/tomohiro-harada-bb1b0196/] |
 
 専門は電気とロボティクス、メカトロニクスになります。
 
@@ -71,7 +71,7 @@
 ## 業務外活動
 * 魔改造の夜 第8回「カメレオンちゃんダーツ」参加 (2023年)
     * 電装設計、開発
-    * 特設サイト構築、編集、公開 https://cnentalpfp.net/
+    * 特設サイト構築、編集、公開 [https://cnentalpfp.net/]
 
 * 3Dモデル作成
     * [MakerWorld](https://makerworld.com/en/@haradatmo2)
